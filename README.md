@@ -2,6 +2,13 @@
 
 Medusa v2 admin plugin. Adds **Bulk Editor** to the sidebar (`/bulk-products`).
 
+## Compatibility
+
+| Plugin version | Medusa version |
+| --- | --- |
+| `0.0.1` (old) | 2.14 |
+| `0.0.2`+ (current) | 2.19 |
+
 - Filters: search, status, collection, type, category, tag, sales channel, created/updated date (URL-synced)
 - Selection: page / manual across pages / **all matching filter**
 - Bulk edit: status, collection, type, discountable, categories/tags/channels (add | remove | replace), title find/replace/prefix/suffix, metadata set/unset — with review step
